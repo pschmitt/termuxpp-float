@@ -21,7 +21,7 @@ jobs:
           submodules: recursive
 
       - name: Set up Android SDK and NDK
-        uses: android-actions/setup-android@v3
+        uses: android-actions/setup-android@v4
 
       - name: Install pinned NDK
         run: sdkmanager "ndk;29.0.14206865"
