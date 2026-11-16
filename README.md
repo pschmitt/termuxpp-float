@@ -3,6 +3,11 @@
 [![Build status](https://github.com/pschmitt/termuxpp-float/actions/workflows/github_action_build.yml/badge.svg?branch=main)](https://github.com/pschmitt/termuxpp-float/actions)
 
 A TermuxPP companion app to show the terminal in a floating terminal window.
+
+> **TermuxPP release channel:** New builds are published in the
+> [TermuxPP monorepo](https://github.com/pschmitt/termuxpp/releases/tag/latest).
+> This repository has no published releases. See the
+> [self-update guide](https://github.com/pschmitt/termuxpp/blob/main/docs/en/self-update.md).
 ##
 
 
